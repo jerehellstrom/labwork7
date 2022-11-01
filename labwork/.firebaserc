@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "labwork4-b7734": {
+      "hosting": {
+        "app": [
+          "labwork4-b7734"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "labwork4-b7734"
+  }
+}
